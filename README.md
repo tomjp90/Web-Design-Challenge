@@ -1,7 +1,7 @@
 # Web Design - Web Visualization Dashboard (Latitude)
 
 ## LINK TO WEBSITE
-https://tomjp90.github.io/web-challenge.github.io/
+https://tomjp90.github.io/web-design-challenge/
 
 ## Background
 
