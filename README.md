@@ -1,4 +1,8 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
+
+## LINK TO WEBSITE
+
+https://tomjp90.github.io/web-challenge.github.io/
 
 ## Background
 
