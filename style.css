@@ -1,0 +1,107 @@
+body {
+    background-color: lightblue;
+  }
+
+/* Nav styling -------------------------*/
+.navbar {
+    background-color: white;
+    -webkit-box-shadow: 0 8px 6px -6px rgb(199, 199, 199);
+    -moz-box-shadow: 0 8px 6px -6px rgb(199, 199, 199);
+    box-shadow: 3px 3px 3px 3px rgb(199, 199, 199);
+}
+
+.navbar li {
+    padding-right: 20px; /* space out the items in list on nav bar*/
+}
+
+.navbar-brand {
+    font-family: Georgia, serif;
+    background-color: rgb(70, 175, 175);
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  } 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 4px 8px 16px 0px rgba(90, 17, 17, 0.2);
+    z-index: 1;
+  }
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  } 
+.container {
+    padding: 25px;
+    box-shadow: 0 8px 6px -6pxrgb(199, 199, 199);
+  }
+  
+
+/* card styling -------------------------*/
+.card {
+    padding: 20px; 
+    box-shadow: 2px 2px 2px 2px #999;
+}
+.top-buffer { 
+    margin-top: 30px;
+}
+
+.center { /* use also to center objects*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+/* heading and text styling -------------------------*/ 
+h1, h2, h3, h4, h5 {
+    color: rgb(70, 175, 175);
+    font-family: Georgia, serif;
+  }
+.card-title {
+    font-size: 40px;
+}
+
+p {
+    font: 14px Helvetica, sans-serif;
+    color:rgb(68, 68, 68);
+    line-height: 200%;
+  }
+
+thead tr th {
+    font: 14px Helvetica, sans-serif;
+  }
+  
+td {
+    font: 14px Helvetica, sans-serif;
+    color:rgb(113, 113, 113);
+    line-height: 200%;
+   }
+  
+  
+tbody tr th {
+    font: 14px Helvetica, sans-serif;
+    color:rgb(113, 113, 113);
+    line-height: 200%;
+   }
+
+
+/* styles for resposiveness -------------------------*/
+@media (max-width: 768px) {
+    .navbar {
+        background-color:rgb(70, 175, 175);
+    }
+}
