@@ -4,7 +4,7 @@ This assignments aim is to creat a visualisation dashboard website using visuali
 ## Link to site
 https://tomjp90.github.io/web-design-challenge/index.html
 
-Technologies used
+## Technologies used
 * HTML
 * CSS
 * Bootstrap
