@@ -11,7 +11,7 @@ https://tomjp90.github.io/web-design-challenge/index.html
 * Python Pandas
 
 ## Analysis Dashboard
-### Website Requirements
+### Website Requirements:
 
 The website consists of 7 pages, including:
 * A landing page containing:
