@@ -1,5 +1,5 @@
 # Web Design - Web Visualization Dashboard (Latitude)
-This assignments aim is to create a visualisation dashboard website using visualisations created in a past assignment. Specifically, weather data and it's latitude is summarised on the site.
+This assignments aim is to create a visualisation dashboard website using visualisations created in a past assignment. Specifically, weather data and it's latitude is summarised on the site. GIT Pages site was used to create a static site. Link to site:
 
 ## Link to site
 https://tomjp90.github.io/web-design-challenge/index.html
