@@ -1,5 +1,5 @@
 # Web Design - Web Visualization Dashboard (Latitude)
-The assignment aims is to create a dashboard website using visualisations created in a past assignment. Specifically, weather data and it's latitude are summarised. Open-source Bootstrap in the CSS framework was utilised to create a responsive pages of visualistations and corresponding analysis. Link to site:
+The assignment aims is to create a dashboard website using visualisations created in a past assignment. Specifically, city weather data and it's latitude analysis are summarised. Open-source Bootstrap in the CSS framework was utilised to create a responsive pages of visualistations and corresponding analysis. Link to site:
 
 ## Link to site
 https://tomjp90.github.io/web-design-challenge/index.html
