@@ -10,7 +10,7 @@ https://tomjp90.github.io/web-design-challenge/index.html
 * Bootstrap
 * Python Pandas
 
-## Analysis Dashboard
+## Analysis Dashboard Steps
 ### Website Requirements:
 
 The website consists of 7 pages, including:
