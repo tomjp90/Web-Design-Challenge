@@ -8,7 +8,8 @@ https://tomjp90.github.io/web-design-challenge/index.html
 * HTML
 * CSS
 * Bootstrap
-* Python Pandas
+* Python 
+* Pandas
 
 ## Analysis Dashboard Overview
 ### Website Requirements:
